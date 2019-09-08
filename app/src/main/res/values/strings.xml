@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinAnimeRoom</string>
+    <string name="userWord">Usuário</string>
+    <string name="senhaWord">Senha</string>
+    <string name="loginWord">Login</string>
+    <string name="cadastrarWord">Cadastrar Usuário</string>
+    <string name="cadastroUserWord">Crie um nome de usuário</string>
+    <string name="cadastroSenhaWord">Crie uma senha</string>
+    <string name="cadastroConfSenWord">Confirme a senha criada</string>
+</resources>

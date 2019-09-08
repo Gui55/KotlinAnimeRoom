@@ -1,0 +1,4 @@
+#Sun Sep 08 17:59:52 BRT 2019
+base.0=/home/mergulhao/AndroidStudioProjects/KotlinAnimeRoom/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

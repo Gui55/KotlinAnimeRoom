@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="editTextDefault">60dp</dimen>
+    <dimen name="widthSideImage">240dp</dimen>
+    <dimen name="imageLoginW">120dp</dimen>
+
+</resources>
